@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Dominio.DTOReservaTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.26 s <<< FAILURE! - in Dominio.DTOReservaTest
+testAnadirReserva(Dominio.DTOReservaTest)  Time elapsed: 0.055 s  <<< ERROR!
+java.lang.IllegalArgumentException: Non-positive period.
+	at Dominio.DTOReservaTest.testAnadirReserva(DTOReservaTest.java:59)
+
